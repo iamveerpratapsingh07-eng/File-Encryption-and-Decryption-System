@@ -75,3 +75,18 @@ file-encryption-decryption-system/
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+
+## Screenshots
+
+### 1. Home Screen
+![Home Screen](Screenshots/home%20screen.png)
+
+### 2. File Encryption
+![File Encryption](Screenshots/encrypt%20file.png)
+
+### 3. Encryption Successful
+![Encryption Successful](Screenshots/encryption%20sucessful.png)
+
+### 4. Decryption Successful
+![Decryption Successful](Screenshots/decrypted%20successfully%20.png)
